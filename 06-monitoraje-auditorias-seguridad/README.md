@@ -1,4 +1,4 @@
-# Monitoratge i auditories de seguretat
+# Monitoraje y auditorias de seguridad
 
 Este bloque recoge apuntes sobre monitorización de sistemas operativos y auditorías de seguridad.
 
