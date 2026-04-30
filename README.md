@@ -53,6 +53,32 @@ Ruta:
 
 - `02-gestion-basica-sistemas-operativos/`
 
+### 03 - Implementación y acceso a dominios
+
+Bloque práctico sobre servicios de directorio, dominios, Active Directory y OpenLDAP.
+
+Incluye:
+
+- Promoción de un servidor Windows a controlador de dominio
+- Dominios, bosques, árboles, PDC, DC, RODC y catálogo global
+- Organización de OUs, usuarios, grupos y equipos
+- Estrategia de grupos AGGP
+- Administración de Active Directory con GUI, PowerShell y CSVDE
+- Recursos compartidos SMB y permisos NTFS
+- Perfiles móviles y carpetas Home
+- Unión de clientes Windows al dominio
+- Instalación y configuración de OpenLDAP
+- Objetos LDAP mediante LDIF
+- Consultas y modificaciones con ldapsearch, ldapmodify y ldapdelete
+- phpLDAPadmin
+- Integración de clientes Linux con LDAP mediante NSS/PAM
+- Perfiles LDAP almacenados en NFS
+- Repaso PF3 Windows AD y PF3 OpenLDAP
+
+Ruta:
+
+- `03-implementacion-acceso-dominios/`
+
 ## Objetivo
 
 Tener una base ordenada de documentación técnica que pueda servir para:
@@ -67,6 +93,7 @@ Tener una base ordenada de documentación técnica que pueda servir para:
 
 - `01-fundamentos-sistemas-operativos/`
 - `02-gestion-basica-sistemas-operativos/`
+- `03-implementacion-acceso-dominios/`
 
 ## Nota
 
