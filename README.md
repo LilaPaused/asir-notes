@@ -2,15 +2,11 @@
 
 Repositorio personal de apuntes técnicos del ciclo de Administración de Sistemas Informáticos en Red.
 
-La idea de este repositorio no es guardar PDFs sin más, sino convertir prácticas y apuntes en documentación útil, buscable y reutilizable.
+La idea de este repositorio no es guardar PDFs sin más, sino convertir las prácticas y apuntes en documentación útil, buscable y reutilizable.
 
 ## Contenido
 
 ### 01 - Fundamentos de Sistemas Operativos
-
-Bloque inicial sobre conceptos base y prácticas de instalación.
-
-Incluye:
 
 - Sistema informático
 - Arquitectura de Von Neumann
@@ -21,80 +17,62 @@ Incluye:
 - Dual boot y GRUB
 - Actualizaciones del sistema
 - Ventoy y sistemas persistentes
-- Repaso PF1
-
-Ruta:
-
-- `01-fundamentos-sistemas-operativos/`
+- Repaso de examen
 
 ### 02 - Gestión básica de Sistemas Operativos
 
-Bloque práctico sobre administración básica de sistemas Windows y Linux.
-
-Incluye:
-
+- Terminales CMD, PowerShell y Bash
 - Gestión de ficheros y directorios
-- CMD, PowerShell y Bash
-- Rutas absolutas y relativas
-- Comodines
-- Redirecciones
+- Redirecciones, comodines y rutas
 - Copias de seguridad y restauración
 - Enlaces simbólicos
-- Gestión de discos y particiones
-- Configuración IP estática
-- Red interna en VirtualBox
-- Firewall e ICMP
-- DNS en Windows Server
-- DNS en Ubuntu Server con Bind9
-- Usuarios, grupos y políticas básicas
+- Discos y particiones
+- Configuración de red interna
+- Servidores DNS en Windows y Linux
+- Usuarios, grupos y políticas locales
 - Repaso PF2
-
-Ruta:
-
-- `02-gestion-basica-sistemas-operativos/`
 
 ### 03 - Implementación y acceso a dominios
 
-Bloque práctico sobre servicios de directorio, dominios, Active Directory y OpenLDAP.
-
-Incluye:
-
-- Promoción de un servidor Windows a controlador de dominio
-- Dominios, bosques, árboles, PDC, DC, RODC y catálogo global
-- Organización de OUs, usuarios, grupos y equipos
-- Estrategia de grupos AGGP
-- Administración de Active Directory con GUI, PowerShell y CSVDE
+- Promoción de Domain Controller
+- Active Directory Domain Services
+- Dominios, árboles, bosques, DC, RODC y catálogo global
+- OUs, usuarios, grupos y equipos
+- PowerShell y CSVDE
 - Recursos compartidos SMB y permisos NTFS
 - Perfiles móviles y carpetas Home
 - Unión de clientes Windows al dominio
-- Instalación y configuración de OpenLDAP
-- Objetos LDAP mediante LDIF
-- Consultas y modificaciones con ldapsearch, ldapmodify y ldapdelete
-- phpLDAPadmin
-- Integración de clientes Linux con LDAP mediante NSS/PAM
-- Perfiles LDAP almacenados en NFS
-- Repaso PF3 Windows AD y PF3 OpenLDAP
+- OpenLDAP, LDIF y phpLDAPadmin
+- NSS/PAM para login LDAP
+- NFS para perfiles LDAP
+- Repaso PF3
 
-Ruta:
+### 04 - Directivas de configuración de dominios
 
-- `03-implementacion-acceso-dominios/`
+- GPOs en Active Directory
+- Fondo de pantalla obligatorio por GPO
+- Bloqueo de personalización del escritorio
+- Instalación de software por GPO
+- WSUS y actualizaciones centralizadas
+- AppLocker
+- Ansible como alternativa de gestión en Linux
+- Repositorio local APT con apt-mirror y Apache
+- Playbooks para instalación de paquetes y configuración de clientes
+- Repaso PF4
 
 ## Objetivo
 
-Tener una base ordenada de documentación técnica que pueda servir para:
+Tener una base ordenada de documentación técnica que pueda servir para estudiar, resolver prácticas similares, repasar exámenes y demostrar trabajo técnico en GitHub.
 
-- estudiar más rápido
-- resolver prácticas similares
-- repasar exámenes
-- demostrar trabajo técnico en GitHub
-- construir un portfolio real
+## Estructura
 
-## Estructura general
-
-- `01-fundamentos-sistemas-operativos/`
-- `02-gestion-basica-sistemas-operativos/`
-- `03-implementacion-acceso-dominios/`
+asix-notes/
+- README.md
+- 01-fundamentos-sistemas-operativos/
+- 02-gestion-basica-sistemas-operativos/
+- 03-implementacion-acceso-dominios/
+- 04-directives-configuracio-dominis/
 
 ## Nota
 
-Este repositorio está basado en prácticas reales de clase, pero el contenido está reestructurado por conceptos técnicos para que sea más fácil de consultar.
+Este repositorio está basado en prácticas reales de clase, pero el contenido está reestructurado para que sea más fácil de consultar por tema técnico.
