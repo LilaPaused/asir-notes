@@ -2,7 +2,7 @@
 
 Repositorio personal de apuntes técnicos del ciclo de Administración de Sistemas Informáticos en Red.
 
-La idea de este repositorio no es guardar PDFs sin más, sino convertir las prácticas y apuntes en documentación útil, buscable y reutilizable.
+La idea de este repositorio no es guardar PDFs sin más, sino convertir prácticas y exámenes en documentación técnica útil, buscable y reutilizable.
 
 ## Temas
 
@@ -12,62 +12,55 @@ La idea de este repositorio no es guardar PDFs sin más, sino convertir las prá
 - Arquitectura de Von Neumann
 - Gestión de memoria
 - Proceso de arranque
-- Virtualización con VirtualBox
-- Instalación de Windows y Linux
-- Dual boot y GRUB
-- Actualizaciones del sistema
+- Virtualización, instalación de sistemas y GRUB
 - Ventoy y sistemas persistentes
 
 ### 02 - Gestión básica de Sistemas Operativos
 
 - Terminales CMD, PowerShell y Bash
 - Gestión de ficheros y directorios
-- Redirecciones
-- Backups básicos
-- Discos y particiones
-- Red interna, DNS y firewall
-- Usuarios, grupos y políticas locales
+- Discos, particiones y red básica
+- DNS en Windows Server y Ubuntu Server
+- Usuarios, grupos y políticas básicas
 
 ### 03 - Implementación y acceso a dominios
 
 - Active Directory
-- Promoción de PDC / Domain Controller
-- Dominios, bosques y árboles
+- Controladores de dominio
 - OUs, usuarios, grupos y equipos
-- Recursos compartidos SMB
-- Perfiles móviles y Home folders
 - OpenLDAP, LDIF y phpLDAPadmin
-- NSS, PAM y NFS para usuarios LDAP
+- NSS, PAM, NFS y perfiles móviles
 
 ### 04 - Directivas de configuración de dominios
 
 - GPOs
-- Fondo de pantalla obligatorio
-- Instalación de software por GPO
 - WSUS
 - AppLocker
+- Instalación de software por dominio
 - Ansible
 - Repositorio local APT
 
 ### 05 - Gestión de la información en una red
 
-- RAID en Windows y Linux
-- Storage Spaces
-- mdadm
-- Hot Spare
-- Copias de seguridad
-- Cuotas de disco
-- Recursos compartidos SMB
-- Permisos NTFS avanzados
-- CREATOR OWNER
-- Sticky bit
+- RAID y Hot Spare
+- Backups
+- Cuotas
+- SMB/NTFS
 - NFS
-- Permisos Linux sobre recursos compartidos
+- Sticky bit
+
+### 06 - Monitoratge i auditories de seguretat
+
+- Monitorización en Windows
+- Monitorización en Linux
+- Contadores de rendimiento
+- Recopiladores de datos
+- Auditorías en Windows
+- Auditd en Linux
+- Visor de eventos y registros de auditoría
 
 ## Objetivo
 
-Tener una base ordenada de documentación técnica que sirva para estudiar, resolver prácticas similares, repasar exámenes y demostrar trabajo técnico en GitHub.
+Tener una base de documentación técnica ordenada por conceptos reales de administración de sistemas.
 
-## Nota
-
-Este repositorio está basado en prácticas reales de clase, pero el contenido está reestructurado para que sea más fácil de consultar por tema técnico.
+Este repositorio sirve para estudiar, resolver prácticas similares, preparar exámenes y construir un portfolio técnico demostrable.
