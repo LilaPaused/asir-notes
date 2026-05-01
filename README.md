@@ -15,18 +15,21 @@ Actualmente el repositorio está separado en dos grandes bloques:
 
 ### SISTEMAS
 
-- Tema 1 - Fundamentos de sistemas operativos: [Ver carpeta](https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7)
-- Tema 2 - Gestión básica de sistemas operativos: [Ver carpeta](https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81)
-- Tema 3 - Implementación y acceso a dominios: [Ver carpeta](https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0)
-- Tema 4 - Directivas de configuración de dominios: [Ver carpeta](https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO)
-- Tema 5 - Gestión de la información en red: [Ver carpeta](https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g)
-- Tema 6 - Monitorización y auditorías de seguridad: [Ver carpeta](https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn)
-- Tema 7 - Administración y asistencia remota: [Ver carpeta](https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl)
-
+| Tema | Carpeta |
+|---|---|
+| Tema 1 - Fundamentos de sistemas operativos | [Abrir carpeta](https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7) |
+| Tema 2 - Gestión básica de sistemas operativos | [Abrir carpeta](https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81) |
+| Tema 3 - Implementación y acceso a dominios | [Abrir carpeta](https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0) |
+| Tema 4 - Directivas de configuración de dominios | [Abrir carpeta](https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO) |
+| Tema 5 - Gestión de la información en red | [Abrir carpeta](https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g) |
+| Tema 6 - Monitorización y auditorías de seguridad | [Abrir carpeta](https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn) |
+| Tema 7 - Administración y asistencia remota | [Abrir carpeta](https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl) |
 
 ### REDES / CCNA
 
-- CCNA - Introducción a las redes: [LINK_AQUI]
+| Bloque | Carpeta |
+|---|---|
+| CCNA - Introducción a las redes | [Pendiente](#redes--ccna) |
 
 ---
 
@@ -50,17 +53,27 @@ asix-notes/
 
 ---
 
-# SISTEMAS
+## SISTEMAS
 
 Bloque dedicado a sistemas operativos, administración de servidores, dominios, almacenamiento, monitorización, auditorías y soporte remoto.
 
+### Índice de temas
+
+| Tema | Ruta interna | Apuntes originales |
+|---|---|---|
+| Tema 1 - Fundamentos de sistemas operativos | [Abrir carpeta](SISTEMAS/01-fundamentos-sistemas-operativos/) | [PDFs](https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7) |
+| Tema 2 - Gestión básica de sistemas operativos | [Abrir carpeta](SISTEMAS/02-gestion-basica-sistemas-operativos/) | [PDFs](https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81) |
+| Tema 3 - Implementación y acceso a dominios | [Abrir carpeta](SISTEMAS/03-implementacion-acceso-dominios/) | [PDFs](https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0) |
+| Tema 4 - Directivas de configuración de dominios | [Abrir carpeta](SISTEMAS/04-directivas-configuracion-dominios/) | [PDFs](https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO) |
+| Tema 5 - Gestión de la información en red | [Abrir carpeta](SISTEMAS/05-gestion-informacion-red/) | [PDFs](https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g) |
+| Tema 6 - Monitorización y auditorías de seguridad | [Abrir carpeta](SISTEMAS/06-monitoraje-auditorias-seguridad/) | [PDFs](https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn) |
+| Tema 7 - Administración y asistencia remota | [Abrir carpeta](SISTEMAS/07-administracion-asistencia-remota/) | [PDFs](https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl) |
+
+---
+
 ## Tema 1 - Fundamentos de sistemas operativos
 
-Ruta:
-
-```text
-SISTEMAS/01-fundamentos-sistemas-operativos/
-```
+Ruta: [SISTEMAS/01-fundamentos-sistemas-operativos/](SISTEMAS/01-fundamentos-sistemas-operativos/)
 
 Contenido principal:
 
@@ -84,11 +97,7 @@ Prácticas relacionadas:
 
 ## Tema 2 - Gestión básica de sistemas operativos
 
-Ruta:
-
-```text
-SISTEMAS/02-gestion-basica-sistemas-operativos/
-```
+Ruta: [SISTEMAS/02-gestion-basica-sistemas-operativos/](SISTEMAS/02-gestion-basica-sistemas-operativos/)
 
 Contenido principal:
 
@@ -113,11 +122,7 @@ Prácticas relacionadas:
 
 ## Tema 3 - Implementación y acceso a dominios
 
-Ruta:
-
-```text
-SISTEMAS/03-implementacion-acceso-dominios/
-```
+Ruta: [SISTEMAS/03-implementacion-acceso-dominios/](SISTEMAS/03-implementacion-acceso-dominios/)
 
 Contenido principal:
 
@@ -144,11 +149,7 @@ Prácticas relacionadas:
 
 ## Tema 4 - Directivas de configuración de dominios
 
-Ruta:
-
-```text
-SISTEMAS/04-directivas-configuracion-dominios/
-```
+Ruta: [SISTEMAS/04-directivas-configuracion-dominios/](SISTEMAS/04-directivas-configuracion-dominios/)
 
 Contenido principal:
 
@@ -172,11 +173,7 @@ Prácticas relacionadas:
 
 ## Tema 5 - Gestión de la información en red
 
-Ruta:
-
-```text
-SISTEMAS/05-gestion-informacion-red/
-```
+Ruta: [SISTEMAS/05-gestion-informacion-red/](SISTEMAS/05-gestion-informacion-red/)
 
 Contenido principal:
 
@@ -206,11 +203,7 @@ Prácticas relacionadas:
 
 ## Tema 6 - Monitorización y auditorías de seguridad
 
-Ruta:
-
-```text
-SISTEMAS/06-monitoraje-auditorias-seguridad/
-```
+Ruta: [SISTEMAS/06-monitoraje-auditorias-seguridad/](SISTEMAS/06-monitoraje-auditorias-seguridad/)
 
 Contenido principal:
 
@@ -245,11 +238,7 @@ Prácticas relacionadas:
 
 ## Tema 7 - Administración y asistencia remota
 
-Ruta:
-
-```text
-SISTEMAS/07-administracion-asistencia-remota/
-```
+Ruta: [SISTEMAS/07-administracion-asistencia-remota/](SISTEMAS/07-administracion-asistencia-remota/)
 
 Contenido principal:
 
@@ -279,11 +268,7 @@ Prácticas relacionadas:
 
 Bloque preparado para apuntes y prácticas de redes.
 
-Ruta prevista:
-
-```text
-REDES/CCNA/
-```
+Ruta: [REDES/CCNA/](REDES/CCNA/)
 
 Contenido previsto:
 
@@ -346,6 +331,6 @@ Contenido previsto:
 
 ## Nota personal
 
-Gran parte del contenido original estaba organizado en PDFs y entregas de clase, con nombres tipo mjose12_pt4, PF1.pdf...
+Gran parte del contenido original estaba organizado en PDFs y entregas de clase, con nombres tipo `mjose12_pt4` o `PF1.pdf`.
 
 Este repositorio reorganiza ese trabajo por áreas técnicas para que sea más fácil de entender, buscar y reutilizar.
