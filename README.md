@@ -1,7 +1,5 @@
 ![Banner](Banner/ASIX-NOTES.png)
 
-# ASIX Notes
-
 Repositorio personal de apuntes, prácticas y documentación técnica del CFGS ASIX (Administración de Sistemas Informáticos en Red).
 
 La idea de este repositorio no es guardar PDFs sin más, sino reorganizar el contenido de clase para que sea fácil de consultar, reutilizar y enseñar.
