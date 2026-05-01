@@ -1,3 +1,5 @@
+![Banner](Banner/ASIX-NOTES.png)
+
 # ASIX Notes
 
 Repositorio personal de apuntes, prácticas y documentación técnica del CFGS ASIX (Administración de Sistemas Informáticos en Red).
@@ -53,7 +55,7 @@ asix-notes/
 
 ---
 
-## SISTEMAS
+# SISTEMAS
 
 Bloque dedicado a sistemas operativos, administración de servidores, dominios, almacenamiento, monitorización, auditorías y soporte remoto.
 
