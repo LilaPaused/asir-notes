@@ -11,19 +11,17 @@ Actualmente el repositorio está separado en dos grandes bloques:
 
 ---
 
-## 🔗 Apuntes originales en la nube
-
-Aquí puedes añadir los enlaces a las carpetas donde tienes guardados los PDFs originales.
+## Apuntes originales en la nube
 
 ### SISTEMAS
 
-- Tema 1 - Fundamentos de sistemas operativos: [LINK_AQUI]
-- Tema 2 - Gestión básica de sistemas operativos: [LINK_AQUI]
-- Tema 3 - Implementación y acceso a dominios: [LINK_AQUI]
-- Tema 4 - Directivas de configuración de dominios: [LINK_AQUI]
-- Tema 5 - Gestión de la información en red: [LINK_AQUI]
-- Tema 6 - Monitorización y auditorías de seguridad: [LINK_AQUI]
-- Tema 7 - Administración y asistencia remota: [LINK_AQUI]
+- Tema 1 - Fundamentos de sistemas operativos: [https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7]
+- Tema 2 - Gestión básica de sistemas operativos: [https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81]
+- Tema 3 - Implementación y acceso a dominios: [https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0]
+- Tema 4 - Directivas de configuración de dominios: [https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO]
+- Tema 5 - Gestión de la información en red: [https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g]
+- Tema 6 - Monitorización y auditorías de seguridad: [https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn]
+- Tema 7 - Administración y asistencia remota: [https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl]
 
 ### REDES / CCNA
 
@@ -31,7 +29,7 @@ Aquí puedes añadir los enlaces a las carpetas donde tienes guardados los PDFs 
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 ```text
 asix-notes/
@@ -302,7 +300,7 @@ Contenido previsto:
 
 ---
 
-## 💻 Tecnologías trabajadas
+## Tecnologías trabajadas
 
 - Windows Server
 - Active Directory
@@ -334,7 +332,7 @@ Contenido previsto:
 
 ---
 
-## 🎯 Objetivo del repositorio
+## Objetivo del repositorio
 
 - Tener apuntes técnicos claros y estructurados.
 - Poder consultar prácticas rápidamente.
@@ -345,8 +343,8 @@ Contenido previsto:
 
 ---
 
-## 🧠 Nota personal
+## Nota personal
 
-Gran parte del contenido original estaba organizado en PDFs y entregas de clase, con nombres tipo PT, PF y capturas.
+Gran parte del contenido original estaba organizado en PDFs y entregas de clase, con nombres tipo mjose12_pt4, PF1.pdf...
 
 Este repositorio reorganiza ese trabajo por áreas técnicas para que sea más fácil de entender, buscar y reutilizar.
