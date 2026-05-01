@@ -15,26 +15,13 @@ Actualmente el repositorio está separado en dos grandes bloques:
 
 ### SISTEMAS
 
-- Tema 1 - Fundamentos de sistemas operativos: 
-[https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7]
-
-- Tema 2 - Gestión básica de sistemas operativos: 
-[https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81]
-
-- Tema 3 - Implementación y acceso a dominios: 
-[https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0]
-
-- Tema 4 - Directivas de configuración de dominios: 
-[https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO]
-
-- Tema 5 - Gestión de la información en red: 
-[https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g]
-
-- Tema 6 - Monitorización y auditorías de seguridad: 
-[https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn]
-
-- Tema 7 - Administración y asistencia remota: 
-[https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl]
+- Tema 1 - Fundamentos de sistemas operativos: [Ver carpeta](https://drive.proton.me/urls/CEKZ4WQEDG#EkYbDH4tQaD7)
+- Tema 2 - Gestión básica de sistemas operativos: [Ver carpeta](https://drive.proton.me/urls/3KYYKRVJRR#88tZLD0j6E81)
+- Tema 3 - Implementación y acceso a dominios: [Ver carpeta](https://drive.proton.me/urls/CD3NDKKFA4#UOamuuWhMsl0)
+- Tema 4 - Directivas de configuración de dominios: [Ver carpeta](https://drive.proton.me/urls/NFDZKDDPF4#GzJ8CxTk0ZUO)
+- Tema 5 - Gestión de la información en red: [Ver carpeta](https://drive.proton.me/urls/0RPPFYJFF8#UoWQT6QEXT5g)
+- Tema 6 - Monitorización y auditorías de seguridad: [Ver carpeta](https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn)
+- Tema 7 - Administración y asistencia remota: [Ver carpeta](https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl)
 
 
 ### REDES / CCNA
