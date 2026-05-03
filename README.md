@@ -25,13 +25,6 @@ Actualmente el repositorio está separado en dos grandes bloques:
 | Tema 6 - Monitorización y auditorías de seguridad | [Abrir carpeta](https://drive.proton.me/urls/MZRJBX7PSC#w1C3ndB2ICnn) |
 | Tema 7 - Administración y asistencia remota | [Abrir carpeta](https://drive.proton.me/urls/Z1ZQM86X68#623EUimExdsl) |
 
-### REDES / CCNA
-
-| Curso | Carpeta |
-|---|---|
-| CCNA 1 - Introducción a las redes | [Abrir carpeta](REDES/CCNA/01-introduccion-a-las-redes/) |
-| CCNA 2 - Switching, Routing and Wireless Essentials | [Abrir carpeta](REDES/CCNA/02-switching-routing-wireless-essentials/) |
-| CCNA 3 - Enterprise Networking, Security and Automation | [Abrir carpeta](REDES/CCNA/03-enterprise-networking-security-automation/) |
 
 ---
 
