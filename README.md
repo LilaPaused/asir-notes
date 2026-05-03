@@ -7,7 +7,7 @@ La idea de este repositorio no es guardar PDFs sin más, sino reorganizar el con
 Actualmente el repositorio está separado en dos grandes bloques:
 
 - **SISTEMAS**: prácticas de implantación, administración, monitorización y soporte de sistemas operativos.
-- **REDES/CCNA**: espacio preparado para apuntes y prácticas de redes basadas en CCNA.
+- **REDES/CCNA**: apuntes y prácticas de redes basadas en los cursos de Cisco CCNA.
 
 ---
 
@@ -27,9 +27,11 @@ Actualmente el repositorio está separado en dos grandes bloques:
 
 ### REDES / CCNA
 
-| Bloque | Carpeta |
+| Curso | Carpeta |
 |---|---|
-| CCNA - Introducción a las redes | [Pendiente](#redes--ccna) |
+| CCNA 1 - Introducción a las redes | [Abrir carpeta](REDES/CCNA/01-introduccion-a-las-redes/) |
+| CCNA 2 - Switching, Routing and Wireless Essentials | [Abrir carpeta](REDES/CCNA/02-switching-routing-wireless-essentials/) |
+| CCNA 3 - Enterprise Networking, Security and Automation | [Abrir carpeta](REDES/CCNA/03-enterprise-networking-security-automation/) |
 
 ---
 
@@ -38,6 +40,7 @@ Actualmente el repositorio está separado en dos grandes bloques:
 ```text
 asix-notes/
 ├── README.md
+├── Banner/
 ├── SISTEMAS/
 │   ├── 01-fundamentos-sistemas-operativos/
 │   ├── 02-gestion-basica-sistemas-operativos/
@@ -49,6 +52,9 @@ asix-notes/
 │
 └── REDES/
     └── CCNA/
+        ├── 01-introduccion-a-las-redes/
+        ├── 02-switching-routing-wireless-essentials/
+        └── 03-enterprise-networking-security-automation/
 ```
 
 ---
@@ -270,23 +276,17 @@ Prácticas relacionadas:
 
 # REDES / CCNA
 
-Bloque preparado para apuntes y prácticas de redes.
+Bloque dedicado a fundamentos de redes, switching, routing, servicios IP, seguridad básica, automatización y prácticas de Cisco Packet Tracer.
 
 Ruta: [REDES/CCNA/](REDES/CCNA/)
 
-Contenido previsto:
+### Índice de cursos
 
-- Fundamentos de redes
-- Modelos OSI y TCP/IP
-- Ethernet
-- Switching
-- Direccionamiento IPv4 e IPv6
-- Subnetting
-- Routing
-- VLANs
-- Seguridad básica
-- Packet Tracer
-- Prácticas del curso CCNA: Introducción a las redes
+| Curso | Ruta interna | Contenido principal |
+|---|---|---|
+| CCNA 1 - Introducción a las redes | [Abrir carpeta](REDES/CCNA/01-introduccion-a-las-redes/) | Fundamentos, IPv4/IPv6, ARP, ICMP, Ethernet, capa física y transporte |
+| CCNA 2 - Switching, Routing and Wireless Essentials | [Abrir carpeta](REDES/CCNA/02-switching-routing-wireless-essentials/) | VLANs, trunks, STP, EtherChannel, inter-VLAN, routing estático y wireless |
+| CCNA 3 - Enterprise Networking, Security and Automation | [Abrir carpeta](REDES/CCNA/03-enterprise-networking-security-automation/) | OSPF, NAT/PAT, FHRP, seguridad, WAN, automatización y troubleshooting avanzado |
 
 ---
 
@@ -319,6 +319,19 @@ Contenido previsto:
 - UFW
 - Firewall de Windows
 - auditd
+- Cisco Packet Tracer
+- Cisco IOS
+- Switching
+- VLANs
+- Trunking
+- STP
+- EtherChannel
+- Inter-VLAN Routing
+- OSPF
+- NAT / PAT
+- HSRP / FHRP
+- Wireshark
+- tcpdump
 
 ---
 
@@ -335,6 +348,6 @@ Contenido previsto:
 
 ## Nota personal
 
-Gran parte del contenido original estaba organizado en PDFs y entregas de clase, con nombres tipo `mjose12_pt4` o `PF1.pdf`.
+Gran parte del contenido original estaba organizado en PDFs, entregas de clase, capturas, prácticas Packet Tracer y apuntes de libreta.
 
 Este repositorio reorganiza ese trabajo por áreas técnicas para que sea más fácil de entender, buscar y reutilizar.
