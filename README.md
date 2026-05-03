@@ -53,6 +53,8 @@ asix-notes/
 
 ---
 
+![Banner](Banner/ssoo.png)
+
 # SISTEMAS
 
 Bloque dedicado a sistemas operativos, administración de servidores, dominios, almacenamiento, monitorización, auditorías y soporte remoto.
