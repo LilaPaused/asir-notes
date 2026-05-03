@@ -1,4 +1,4 @@
-![Banner](Banner/ASIX-NOTES.png)
+![Banner](Banner/ASIR-NOTES.png)
 
 Repositorio personal de apuntes, prácticas y documentación técnica del CFGS ASIR (Administración de Sistemas Informáticos en Red).
 
@@ -265,6 +265,8 @@ Prácticas relacionadas:
 - PF7 - Repaso / examen de administración remota
 
 ---
+
+![Banner](Banner/redes.png)
 
 # REDES / CCNA
 
