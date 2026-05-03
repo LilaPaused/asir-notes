@@ -53,7 +53,7 @@ asix-notes/
 
 ---
 
-![Banner](Banner/ssoo.png)
+![Banner](Banner/ssoo1.png)
 
 # SISTEMAS
 
